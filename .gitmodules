@@ -1,0 +1,12 @@
+[submodule "zsh/.oh-my-zsh"]
+	path = zsh/.oh-my-zsh
+	url = https://github.com/ohmyzsh/ohmyzsh
+[submodule "zsh/.config/zsh/themes/powerlevel10k"]
+	path = zsh/.config/zsh/themes/powerlevel10k
+	url = https://github.com/romkatv/powerlevel10k.git
+[submodule "fonts/.local/share/fonts"]
+	path = fonts/.local/share/fonts
+	url = https://github.com/romkatv/powerlevel10k-media.git
+[submodule "zsh/.config/zsh/plugins/calc"]
+	path = zsh/.config/zsh/plugins/calc
+	url = https://github.com/arzzen/calc.plugin.zsh.git
